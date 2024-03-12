@@ -1,7 +1,8 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "4a8079d49d0bc272d9fdd4476058b969",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site/student\n\n![A picture of me](/cloud/project/me.jpg)\n\nI am a student at the University of Massachusetts Amherst, majoring in Biology with a minor in Anthropology and a specialization in creative writing. I have interests in laboratory work, scientific discovery and communication, healthcare, cell biology, genetics, ecology, evolution, physiology, disease, and birds. I have had 6 years of field experience in species identification and species data management for school groups and a wildlife sanctuary, as well as 2.5 years of hands-on laboratory research experience. I have had two different laboratory research positions so far at UMass and an internship at Tessera Therapeutics focused on assay development in gene editing technology.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

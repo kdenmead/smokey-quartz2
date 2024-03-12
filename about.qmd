@@ -2,10 +2,8 @@
 title: "About"
 ---
 
-About this site
+About this site/student
+
+![A picture of me](/cloud/project/me.jpg)
 
 I am a student at the University of Massachusetts Amherst, majoring in Biology with a minor in Anthropology and a specialization in creative writing. I have interests in laboratory work, scientific discovery and communication, healthcare, cell biology, genetics, ecology, evolution, physiology, disease, and birds. I have had 6 years of field experience in species identification and species data management for school groups and a wildlife sanctuary, as well as 2.5 years of hands-on laboratory research experience. I have had two different laboratory research positions so far at UMass and an internship at Tessera Therapeutics focused on assay development in gene editing technology.
-
-```{r}
-1 + 1
-```
