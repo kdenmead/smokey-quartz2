@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quarto5",
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The ultimate presentation created this semester."
   },
   {
     "objectID": "about.html",
@@ -14,10 +14,24 @@
     "text": "About this site/student\n\n\n\nA picture of me\n\n\nI am a student at the University of Massachusetts Amherst, majoring in Biology with a minor in Anthropology and a specialization in creative writing. I have interests in laboratory work, scientific discovery and communication, healthcare, cell biology, genetics, ecology, evolution, physiology, disease, and birds. I have had 6 years of field experience in species identification and species data management for school groups and a wildlife sanctuary, as well as 2.5 years of hands-on laboratory research experience. I have had two different laboratory research positions so far at UMass and an internship at Tessera Therapeutics focused on assay development in gene editing technology."
   },
   {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Labs done this semester:"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Lab 1\nLab 2"
+    "text": "All of the labs completed this semester:\n\nLab 1\nLab 2\nLab 3\nLab 4\nLab 5\nLab 6"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto5",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
